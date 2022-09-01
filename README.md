@@ -33,6 +33,7 @@ The following libraries are included:
 * [train]: contains the code for training the RNN model
 * [predict]: contains the code for using the RNN model for predcition
 * [review snapshot]:snapshot of a review typed in the website
+* [utils]: code for preprocessing texts
 
 *data used:* it was provided by Udacity
 
